@@ -1,0 +1,8 @@
+Departamentos:
+- RH
+- TI
+- Controladoria
+- Comercial
+- Tesouraria
+- Atendimento
+- Logística
