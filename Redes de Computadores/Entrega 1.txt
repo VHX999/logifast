@@ -1,0 +1,17 @@
+Departamentos:
+- RH
+- TI
+- Controladoria
+- Comercial
+- Tesouraria
+- Atendimento
+- Logística
+
+Equipamentos:
+- RH: Servidor, Computadores, Impressora, Switch
+- TI: Servidor, Computadores, Switch
+- Controladoria: Servidor, Computadores, Switch
+- Comercial: Servidor, Computador, Switch, Impressora, Telefone
+- Tesouraria: Servidor, Computador, Switch, Impressora
+- Atendimento: Servidor, Computador, Switch, Telefone
+- Logística: Servidor, Computador, Switch
