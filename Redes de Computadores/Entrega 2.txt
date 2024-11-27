@@ -1,0 +1,13 @@
+Classe de Rede: Classe C (192.168.0.0/24)
+			 255.255.255.0
+
+Padrão de Rede:
+- RH 192.168.0.1 - 35
+- TI 192.168.36 - 70
+- Controladoria 192.168.0.71 - 105
+- Comercial 192.168.0.106 - 140
+- Tesouraria 192.168.0.141 - 175
+- Atendimento 192.168.0.176 - 210
+- Logística 192.168.0.211 - 245
+
+
